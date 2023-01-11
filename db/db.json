@@ -1,6 +1,12 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "title": "Test Title",
+        "text": "Test text",
+        "note_id": "n018"
+    },
+    {
+        "title": "Street Magic",
+        "text": "The best thing ever",
+        "note_id": "31a8d2e6-6712-4628-9744-0573555ade94"
     }
 ]
